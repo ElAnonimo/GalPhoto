@@ -13,6 +13,14 @@
 
 `bower install angular`
 
+`bower install angular-route`
+
+`bower install bootstrap`
+
+`bower install angular-bootstrap`
+
+`bower install angular-bootstrap-lightbox`
+
 ### Запуск приложения
 `npm start`
 
