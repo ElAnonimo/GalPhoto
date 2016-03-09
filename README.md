@@ -11,6 +11,8 @@
 ### Установка модулей
 `npm install`
 
+`bower install angular`
+
 ### Запуск приложения
 `npm start`
 
