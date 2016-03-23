@@ -1,4 +1,4 @@
-![alt tag](https://avatars1.githubusercontent.com/u/549085?v=3&s=200)
+![alt tag](http://www.abararanburu.com/wp-content/uploads/2015/06/summit-2.png)
 
 # Описание
 Страница, отображающая популярные фото на Instagram. Создан Node.JS сервер, пользовательский сервис, применён плагин Bootstrap Lightbox.
