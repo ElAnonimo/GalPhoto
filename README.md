@@ -1,5 +1,7 @@
+![alt tag](https://avatars1.githubusercontent.com/u/549085?v=3&s=200)
+
 # Описание
-Страница, отображающая популяные фото на Instagram. Создан Node.JS сервер, пользовательский сервис, применён плагин Bootstrap Lightbox.
+Страница, отображающая популярные фото на Instagram. Создан Node.JS сервер, пользовательский сервис, применён плагин Bootstrap Lightbox.
 
 ### Технологии
 * Node.JS
